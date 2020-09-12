@@ -1,5 +1,7 @@
 # Amazon-Product-Recommendation-System
 
+![alt text](rec_head.JPG)
+
 ### Table of contents
 * [Introduction](#introduction)
 * [Problem Statement](#problem-statement)
@@ -58,4 +60,4 @@ By analyzing our dataset through various tools like R, Python, Pyspark we develo
 
 For the KNN which does context based filtering, we have tested our model with a test data which shows products under their respective cluster. It shows the products which are closely related to Kit Kat.
 
-
+![alt text](rec_res1.JPG)
