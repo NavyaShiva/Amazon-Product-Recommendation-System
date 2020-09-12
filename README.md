@@ -38,7 +38,7 @@ The objective of the project is to develop a product recommendation system based
 * Tokenizing, removal of stop words and stemming was done for textual data
 
 ### Algorithms Implemented
-* K-Means(Context Based Filtering)
+* K-Means (Context Based Filtering)
 * ALS Collaborative Filtering Algorithm
 
 ### Steps Involved
