@@ -1,6 +1,6 @@
 # Amazon-Product-Recommendation-System
 
-![alt text](rec_head.JPG)
+![alt text](amazon.JPG)
 
 ### Table of contents
 * [Introduction](#introduction)
