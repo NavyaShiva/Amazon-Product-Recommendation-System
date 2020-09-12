@@ -24,8 +24,8 @@ The objective of the project is to develop a product recommendation system based
   The data set is a part of Amazon review dataset released in 2014, provided by UCSD.
 
 ### Technologies
-* Python
-* PySpark
+* Python 3.6.7
+* PySpark 3.0.0
 
 ### Type of Data
 * The data set contains data for 287,209 products with 5,074,160 reviews and ratings by 1, 57,386 unique users.
