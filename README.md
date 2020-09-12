@@ -9,6 +9,7 @@
 * [Technologies](#technologies)
 * [Type of Data](#type-of-data)
 * [Data Pre-processing](#data-pre-processing)
+* [Algorithms Implemented](#algorithms-implemented)
 * [Steps Involved](#steps-involved)
 * [Evaluation Metrics](#evaluation-metrics)
 * [Results and Conclusion](#results-and-conclusion)
@@ -35,6 +36,10 @@ The objective of the project is to develop a product recommendation system based
 
 ### Data Pre-processing
 * Tokenizing, removal of stop words and stemming was done for textual data
+
+### Algorithms Implemented
+* K-Means(Context Based Filtering)
+* ALS Collaborative Filtering Algorithm
 
 ### Steps Involved
 
