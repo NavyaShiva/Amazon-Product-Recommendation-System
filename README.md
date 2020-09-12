@@ -66,3 +66,6 @@ On implementing the ALS Collaborative Filtering Algorithm, we have used ALS mode
 
 ![alt text](rec_res2.JPG)
 
+On using 5-fold cross validation and evaluating on the test data the RMSE value showed an improvement. We obtained RMSE value of 0.8345.
+
+![alt text](rec_res3.JPG)
