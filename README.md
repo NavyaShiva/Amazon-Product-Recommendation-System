@@ -61,3 +61,8 @@ By analyzing our dataset through various tools like R, Python, Pyspark we develo
 For the KNN which does context based filtering, we have tested our model with a test data which shows products under their respective cluster. It shows the products which are closely related to Kit Kat.
 
 ![alt text](rec_res1.JPG)
+
+On implementing the ALS Collaborative Filtering Algorithm, we have used ALS model in which we have obtained RMSE value of 1.134.
+
+![alt text](rec_res2.JPG)
+
